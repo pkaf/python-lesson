@@ -5,7 +5,7 @@ Project structure:
 
 1. oop: Object oriented programming    
 * [Regular, static and class methods](https://github.com/pkaf/python-lesson/blob/main/oop/class_method.ipynb)
-* 
+* [Inheritance](https://github.com/pkaf/python-lesson/blob/main/oop/inheritance.ipynb)
 
 2. code snippet
 
