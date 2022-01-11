@@ -13,4 +13,5 @@ Project structure:
 
 References:
 1. Corey Schafer [youtube channel](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) and [repo](https://github.com/CoreyMSchafer/code_snippets).
-2. Fluent Python, Ramalho L., O'Reilly  
+2.[GeeksforGeeks website](https://www.geeksforgeeks.org)
+3. Fluent Python, Ramalho L., O'Reilly  
